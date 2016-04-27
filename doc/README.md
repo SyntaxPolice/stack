@@ -152,7 +152,8 @@ This repository also contains a complete [user guide to using stack
 
 #### Why stack?
 
-stack is a project of the [Commercial Haskell](http://commercialhaskell.com/)
+stack built on top of the open source [Cabal library](https://www.haskell.org/cabal/).
+It is a project of the [Commercial Haskell](http://commercialhaskell.com/)
 group, spearheaded by [FP Complete](https://www.fpcomplete.com/). It is
 designed to answer the needs of commercial Haskell users, hobbyist Haskellers,
 and individuals and companies thinking about starting to use Haskell. It is
